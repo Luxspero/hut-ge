@@ -49,6 +49,11 @@ function BirthdayMessage() {
               jalani. Dengar-dengaran ke Mama dan Papa, jangan bandel jadi anak
               oawkaowkwowko. Tetap semangat yaaaa, and See You!"
             </p>
+            <hr />
+            <p>
+              Jam 14.10 WITA Tanggal 26 November 2024. Aku selesai Upload Web
+              ini ke Hosting, mungkin ada perubahan tapi nantilah.
+            </p>
           </div>
         </div>
 
