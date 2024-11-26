@@ -23,7 +23,7 @@ function BirthdayMessage() {
 
         <div className="mt-8">
           <img
-            src="https://via.placeholder.com/250"
+            src="/ge.jpeg"
             alt="Gracelia"
             className="w-64 h-64 mx-auto rounded-full shadow-lg border-4 border-blue-500"
           />
